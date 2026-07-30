@@ -1,1 +1,2 @@
-# Forever
+# Python Project
+# TodoApp
